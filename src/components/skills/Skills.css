@@ -1,0 +1,54 @@
+.skillContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: #af9c9c;
+  height: 90vh;
+  width: 100%;
+  background-color: #222831;
+  font-size: 100px;
+}
+
+.skillIconContainer {
+  width: 85%;
+  color: #af9c9c;
+  left: 0;
+  right: 0;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+  align-items: center;
+  margin: 0px auto;
+}
+
+.fa-html5:hover,
+.fa-css3-alt:hover,
+.fa-square-js:hover,
+.fa-react:hover,
+.fa-sass:hover,
+.fa-github:hover,
+.fa-bootstrap:hover,
+.fa-npm:hover {
+opacity: calc(0.3);
+}
+
+.skillTittle {
+  color: #af9c9c;
+  font-size: 35px;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 50px;
+}
+.skillText {
+  color: #af9c9c;
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 100px;
+}
+.skillTextContainer {
+  margin-bottom: 250px;
+}
+
+.skillIconContainer > html5 {
+  background-color: black;
+}
