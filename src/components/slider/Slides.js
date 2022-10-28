@@ -6,7 +6,7 @@ const slidesInfo = [
         src: "https://images.unsplash.com/photo-1580657018950-c7f7d6a6d990?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
         alt:"Project 1",
         agreg:"Project 1",
-        desc:"Ecommerce-BahiaInformal",
+        desc:"BahiaInformal",
     },
     {
         src: "https://images.unsplash.com/photo-1580568287125-ae9bad4f0eef?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",

@@ -20,7 +20,9 @@
   color: #af9c9c;
   cursor: pointer;
 }
-
+.navbar-logo:hover {
+  color: rgb(112, 60, 60);
+}
 
 
 .navbarContainer {

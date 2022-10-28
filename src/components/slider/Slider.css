@@ -24,13 +24,13 @@
 }
 
 .slide-container > img {
-  object-fit: contain;
-  transition: all 0.2s ease-in-out;
+  object-fit: contain !important;
+  transition: all 0.5s ease-in-out;
 }
 
 .slide-container:hover > img {
   transform: scale(1.2);
-  opacity: 0.7;
+  opacity: 1.7;
 }
 
 .slide-desc {
@@ -50,6 +50,7 @@
   font-size: 22px;
   padding: 20px 0 20px 10px;
 }
+
 .slide-desc > h2 {
   color: #af9c9c !important;
 }
@@ -57,10 +58,8 @@
 .slide-desc > .slideAgreg {
   background-color: rgba(92, 87, 87, 0.911);
   border-top-left-radius: 20px;
-
   
 }
-
 
 .BrainhubCarousel__arrows {
   border-radius: 50%;
