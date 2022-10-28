@@ -13,17 +13,20 @@ export const Navbar = ({ isScrolling }) => {
           Home
         </div>
         <ul className="navbarSecond">
-          <a href="#about"> 
-          <li>About me</li>
+          <a href="#about">
+            <li>About me</li>
           </a>
           <a href="#proyects">
-          <li>Proyects</li>
+            <li>Proyects</li>
           </a>
           <a href="#skills">
-          <li>Skills</li>
+            <li>Skills</li>
+          </a>
+          <a href="#info">
+            <li>Certificates</li>
           </a>
           <a href="#contact">
-          <li>Contact</li>
+            <li>Contact</li>
           </a>
         </ul>
       </div>
