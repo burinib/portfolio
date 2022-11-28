@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/PortfolioBurini/static/css/main.c521a6cf.css",
-    "main.js": "/PortfolioBurini/static/js/main.74daa7f6.js",
+    "main.css": "/PortfolioBurini/static/css/main.fb9948b1.css",
+    "main.js": "/PortfolioBurini/static/js/main.cdcd978b.js",
     "static/media/coverVideo3.mp4": "/PortfolioBurini/static/media/coverVideo3.871088677efd4fd95d4f.mp4",
     "static/media/certificadoReact.png": "/PortfolioBurini/static/media/certificadoReact.14682bf4a4b8e7c914bb.png",
     "static/media/certificadoJavaScript.png": "/PortfolioBurini/static/media/certificadoJavaScript.5149ea25fa84373b21d5.png",
     "static/media/certificadoDW.png": "/PortfolioBurini/static/media/certificadoDW.c32f67e7743c2a8c2b1b.png",
     "static/media/imgPersonal.jpg": "/PortfolioBurini/static/media/imgPersonal.60b1c3759db50b12e289.jpg",
     "index.html": "/PortfolioBurini/index.html",
-    "main.c521a6cf.css.map": "/PortfolioBurini/static/css/main.c521a6cf.css.map",
-    "main.74daa7f6.js.map": "/PortfolioBurini/static/js/main.74daa7f6.js.map"
+    "main.fb9948b1.css.map": "/PortfolioBurini/static/css/main.fb9948b1.css.map",
+    "main.cdcd978b.js.map": "/PortfolioBurini/static/js/main.cdcd978b.js.map"
   },
   "entrypoints": [
-    "static/css/main.c521a6cf.css",
-    "static/js/main.74daa7f6.js"
+    "static/css/main.fb9948b1.css",
+    "static/js/main.cdcd978b.js"
   ]
 }
