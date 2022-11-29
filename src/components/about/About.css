@@ -34,6 +34,15 @@
     width: 100%;
     border-radius: 25px;
 }
+.descarga{
+    font-weight: 800;
+    padding: .75em 2.4em;
+    text-align: center;
+    text-transform: uppercase;
+    box-shadow: 5px 5px 5px #af9c9c;
+    justify-content: center;
+}
+
 
 
 
