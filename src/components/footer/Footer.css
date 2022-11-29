@@ -93,10 +93,23 @@
 @media only screen and (max-width: 960px) {
   .contact {
     width: 100%;
-    background-color: green;
   }
   .footer {
     width: 100%;
+    position: fixed;
+
   }
 
+  }
+  @media only screen and (max-width: 960) {
+     .footer{
+      width: 50%;
+      z-index: -2;
+      position: fixed;
+      padding-left: 0px !important;
+
+    }
+    .input{
+    border: none;
+    }
   }
