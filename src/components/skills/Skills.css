@@ -52,3 +52,22 @@ opacity: calc(0.3);
 .skillIconContainer > html5 {
   background-color: black;
 }
+
+@media only screen and (max-width: 960px) {
+  .skillIconContainer {
+    width: 100%;
+    background-color: red;
+    display: grid;
+    grid-template: 2fr 1fr 1fr 1fr;
+    
+  }
+  .skillContainer {
+    width: 100%;
+    background-color: blue;
+    width: 100%;
+
+  }
+
+  }
+
+  

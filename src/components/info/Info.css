@@ -53,3 +53,17 @@
     font-size: 50px;
 }
 
+@media only screen and (max-width: 960px) {
+  .certificado{
+    margin-top: 250px;
+    margin-right: 25px;
+    width: 290px;
+
+  }
+  .titleCertificado {
+    display: none;
+  }
+.info{
+  width: 100%;
+}
+  }
