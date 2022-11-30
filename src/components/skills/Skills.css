@@ -28,7 +28,7 @@
 .fa-github:hover,
 .fa-bootstrap:hover,
 .fa-npm:hover {
-opacity: calc(0.3);
+  opacity: calc(0.3);
 }
 
 .skillTittle {
@@ -56,10 +56,7 @@ opacity: calc(0.3);
 @media only screen and (max-width: 960px) {
   .skillIconContainer {
     width: 100%;
-    
+    justify-items: center;
+    grid-template-columns: 1fr 1fr;
   }
- 
-
-  }
-
-  
+}

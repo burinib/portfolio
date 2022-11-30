@@ -9,7 +9,7 @@ const About = () => {
     <div className="about-container">
       <div className="about-desc">
         <h3>Sobre mi</h3>
-      {/*   <p>
+        {/*   <p>
           <h2>Informacion personal:</h2>
           <p>Nac: 20-09-1991 </p>
           <p>D.N.I: 36.262.117 </p>
@@ -34,11 +34,18 @@ const About = () => {
       <p>Operario polivalente de la empresa Toyota ubicada en Zarate.</p>
       <p>Me ecuentro desarrollando tareas en el area de Motores, cumpliendo con los objetivos que dicha empresa necesita, trabajando en equipo y con buena predisposicion para seguir aprendiendo dia a dia</p>
  */}
-        <p>¡Hola! Mi nombre es Braian, Soy desarrollador de aplicaciones desktop, web y móvil, abocado especificamente en el area de Front-End</p>
-        <p>Apasionado por las tecnologías web, día a día me esfuerzo para mejorar mis capacidades y obtener nuevos conocimientos.</p>
+        <p>
+          ¡Hola! Mi nombre es Braian, Soy desarrollador de aplicaciones desktop,
+          web y móvil, abocado especificamente en el area de Front-End
+        </p>
+        <p>
+          Apasionado por las tecnologías web, día a día me esfuerzo para mejorar
+          mis capacidades y obtener nuevos conocimientos.
+        </p>
         <div className="descarga">
-          <a href={descarga}
-          download>Descargar mi CV</a>
+          <a href={descarga} download>
+            Descargar mi CV
+          </a>
         </div>
       </div>
       <div className="about-img">

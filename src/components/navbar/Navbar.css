@@ -44,6 +44,9 @@ display: flex;
 
 
 @media only screen and (max-width: 960px) {
+  .navbar {
+    padding-left: 0
+  }
   .navbarSecond {
     display: none;
   }
