@@ -8,15 +8,15 @@
 }
 
 .carousel-title {
-  width: 40%;
+  width: 20%;
   text-align: center;
-  font-size: 28px;
+  font-size: 25px;
   padding: 0 100px 0 10px;
   color: #af9c9c;
 }
 
 .slide-container {
-  height: 80%;
+  height: 85%;
   border-radius: 40px;
   overflow: hidden;
   position: relative;
@@ -26,6 +26,7 @@
 .slide-container > img {
   object-fit: contain !important;
   transition: all 0.5s ease-in-out;
+
 }
 
 .slide-container:hover > img {
