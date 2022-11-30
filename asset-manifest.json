@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.87f8d75e.css",
+    "main.css": "/portfolio/static/css/main.0260180f.css",
     "main.js": "/portfolio/static/js/main.7342eb9b.js",
     "static/media/coverVideo3.mp4": "/portfolio/static/media/coverVideo3.871088677efd4fd95d4f.mp4",
     "static/media/CvBuriniBraian.pdf": "/portfolio/static/media/CvBuriniBraian.912d35f57edafb2966f0.pdf",
@@ -9,11 +9,11 @@
     "static/media/certificadoDW.png": "/portfolio/static/media/certificadoDW.c32f67e7743c2a8c2b1b.png",
     "static/media/imgPersonal.jpg": "/portfolio/static/media/imgPersonal.60b1c3759db50b12e289.jpg",
     "index.html": "/portfolio/index.html",
-    "main.87f8d75e.css.map": "/portfolio/static/css/main.87f8d75e.css.map",
+    "main.0260180f.css.map": "/portfolio/static/css/main.0260180f.css.map",
     "main.7342eb9b.js.map": "/portfolio/static/js/main.7342eb9b.js.map"
   },
   "entrypoints": [
-    "static/css/main.87f8d75e.css",
+    "static/css/main.0260180f.css",
     "static/js/main.7342eb9b.js"
   ]
 }
